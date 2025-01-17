@@ -9,11 +9,6 @@ The Database Administration Project is a Bash script designed to automate common
 - Facilitates the restoration of backups.
 - Provides easy-to-use interface for running administrative commands.
 
-## System Requirements
-- Linux-based operating system (Ubuntu, CentOS, etc.)
-- MySQL or PostgreSQL database server
-- Bash shell
-
 ## Installation
 To set up the project locally, follow these steps:
 
